@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Grid : MonoBehaviour {
+public class AStarGrid : MonoBehaviour {
 
 	public bool displayGridGizmos;
 
